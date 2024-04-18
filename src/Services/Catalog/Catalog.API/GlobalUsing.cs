@@ -5,3 +5,4 @@ global using Marten;
 global using Mapster;
 global using MediatR;
 global using Catalog.API.Exceptions;
+global using FluentValidation;
